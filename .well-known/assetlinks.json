@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lexenzolab.vs",
+      "sha256_cert_fingerprints":
+        ["33:FD:A3:24:4A:F0:A7:AE:AA:68:B7:38:3D:B7:A5:6D:FD:D8:04:6B:5B:F0:84:6D:0E:E9:10:FB:82:B6:83:DF"]
+    }
+  }
+]
